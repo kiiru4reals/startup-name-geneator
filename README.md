@@ -4,8 +4,7 @@ Startup name generator
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
+This is basically a simple flutter project that makes automatically generates for you potential startup names, sounds cool does it? anyway feel free to add on it.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
